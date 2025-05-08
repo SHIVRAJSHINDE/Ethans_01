@@ -1,7 +1,1 @@
 this file
-<<<<<<< HEAD
-asdfsadfsdf
-asdfasdfdsaf
-=======
-this is one more file
->>>>>>> 1059de8a2cb03b290b6d1ed56281a2ec419677b9
